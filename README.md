@@ -1,6 +1,6 @@
 # jogo-mosquito
 
-Faça o update dos arquivos e abra no navegador.
+Faça a instalação do arquivo e abra no navegador.
 A seguir uma breve explicação de cada pasta no projeto.
 
 index.html
