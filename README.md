@@ -5,13 +5,11 @@ A seguir uma breve explicação de cada pasta no projeto.
 
 index.html
 
-js> jogo.js
-
-css> estilo.css
-
-html> app.html
-      fim_de_jogo.html
-      vitoria.html
+jogo.js
+estilo.css
+app.html
+fim_de_jogo.html
+vitoria.html
       
 imagens> bg.jpg
          coracao_cheio.png
